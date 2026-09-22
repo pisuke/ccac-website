@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://cc-ac.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
